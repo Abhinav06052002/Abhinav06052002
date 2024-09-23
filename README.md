@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav06052002&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav06052002" /> </p>
 
-- 🔭 I’m currently working on **compiler technology (LFortran)**
+- 🔭 I’m currently working on **Fortan for scientific computing**
 
-- 🌱 I’m currently learning **building compilers and interpreters in c\c++**
+- 🌱 I’m currently learning **Linear Algebra**
 
-- 👯 I’m looking to collaborate on **anything related to control systems and compilers**
+- 👯 I’m looking to collaborate on **anything related to Scientific computing**
 
 - 💬 Ask me about **control systems, mechanical engineering, scientific computing, software development**
 
