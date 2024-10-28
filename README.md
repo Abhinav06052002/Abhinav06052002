@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **mechanical engineering, control systems, scientific computing, software development**
 
-- 📫 How to reach me **saiabhinavjammi@gmail.com**
+- 📫 How to reach me **jammisaiabhinav@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
