@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav06052002&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav06052002" /> </p>
 
-- 🔭 I’m currently working on **Fortan for scientific computing**
+- 🔭 I’m currently working on **Julia for scientific computing**
 
 - 🌱 I’m currently learning **Numerical methods, Linear Algebra, Sparse computations, Optimization**
 
 - 👯 I’m looking to collaborate on **anything related to Scientific computing**
 
-- 💬 Ask me about **mechanical engineering, control systems, scientific computing, software development**
+- 💬 Ask me about **mechanical engineering, Finite Elements, scientific computing, software development**
 
 - 📫 How to reach me **jammisaiabhinav@gmail.com**
 
